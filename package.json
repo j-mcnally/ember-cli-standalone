@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-standalone",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "private": false,
   "ember-addon": {"main": "lib/standalone.js"},
   "keywords": [
@@ -13,7 +13,7 @@
   "author": "Justin McNally",
   "license": "MIT",
   "dependencies": {
-    "ember-cli": "1.0.4",
+    "ember-cli": "0.1.3",
     "broccoli-merge-trees": "^0.1.4",
     "broccoli-static-compiler": "^0.1.4",
     "broccoli-replace": "^0.1.7"
